@@ -2,9 +2,13 @@ Este es un documento de prueba
 
 Creado por Edwin Serrano
 
-Tengo 40 años naci en México
+Soy seth2099dev y estoy contribuyendo a est proyecto open source
+
+Naci en México
 
 Agrego un par de lineas mas a mi archivo
+
+
 
 Primer linea
 Segunda linea
